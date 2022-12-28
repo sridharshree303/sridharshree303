@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Sridhar Kolluru :sunglasses: , Software Engineer having Full stack developer skills.
+My name is Sridhar Kolluru :sunglasses: , Java Full stack developer.
+
+- 🔭 I’m currently working on Capgemini India, Chennai...
+- 🌱 I’m currently learning Data Structures and Algorithms along with LLD and HLD...
 <!--
 **sridharshree303/sridharshree303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
